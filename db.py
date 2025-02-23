@@ -1,14 +1,14 @@
 import sqlite3
 
 default_admins = [
-    (1, '1604629264', 1),
-    (2, '6882674372', 1)
+    (1, '5786411100, 1),
+    (2, '5786411100, 1)
 ]
-token = '7642811071:AAHbClBfZIiPTcrvYyo8ckbUHrKK_jqvfEs'
-bot_name = 'Ƥ𝐀Ꭵ𝓭 𝓭𝓭𝓸𝓼 β𝓸Ｔ'
-bot_username = '@PAIDKILLER_BOT'
-owner_username = '@LASTWISHES0'
-channel_username = '@TOXIC_APNA_BHAI'
+token = '7671266463:AAFEf0Q_sLonZEhd8dpkX5FD5nL1nlIp6Ek'
+bot_name = 'YAMRAJ OP'
+bot_username = '@yanmrajhai_Bot'
+owner_username = '@YAMRAJ_PAPA12'
+channel_username = '@YAMRAJ HACKS'
 
 def initialize_db():
     conn = sqlite3.connect('bot_data.db')
